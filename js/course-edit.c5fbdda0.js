@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkedu_fed"]=self["webpackChunkedu_fed"]||[]).push([[77],{4215:function(e,r,t){t.r(r),t.d(r,{default:function(){return a}});var u=function(){var e=this,r=e._self._c;return r("div",{staticClass:"course-edit"},[r("create-or-edit",{attrs:{isEdit:"",courseId:e.courseId}})],1)},s=[],n=t(2489),c={name:"CourseEdit",props:{courseId:{type:[Number,String],require:!0}},components:{CreateOrEdit:n.Z}},d=c,i=t(1001),o=(0,i.Z)(d,u,s,!1,null,"4e33a2c0",null),a=o.exports}}]);
+//# sourceMappingURL=course-edit.c5fbdda0.js.map
